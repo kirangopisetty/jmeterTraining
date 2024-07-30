@@ -1,0 +1,10 @@
+﻿varHospitalAdmission,varComment,varInsuranceProgram,varFacility,varDate
+Yes,Body pains & fever,Medicare,Tokyo CURA Healthcare Center,23/07/2024
+No,Sugar & Blood Pressure checkup,Medicaid,Tokyo CURA Healthcare Center,24/07/2024
+Yes,Vaccination purpose,None,Tokyo CURA Healthcare Center,25/07/2024
+Yes,Cough,Medicare,Hongkong CURA Healthcare Center,23/07/2024
+No,Cold,Medicaid,Hongkong CURA Healthcare Center,24/07/2024
+Yes,Viral fever,None,Hongkong CURA Healthcare Center,25/07/2024
+Yes,Diareehia,Medicare,Seoul CURA Healthcare Center,23/07/2024
+No,Stomach pain,Medicaid,Seoul CURA Healthcare Center,24/07/2024
+Yes,Full body scan required,None,Seoul CURA Healthcare Center,25/07/2024

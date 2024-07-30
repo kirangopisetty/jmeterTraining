@@ -1,0 +1,12 @@
+﻿name,gender,email,status,idToUpdate,updatedName,updatedStatus,idToDelete,updatedEmail
+kiran,male,kiran@aesf.com,active,7141321,Mr.Kiran,inactive,7141321,kiran1@infosys.com
+joshi,female,joshi@asdf.com,inactive,7141322,Dr.Joshi,active,7141322,joshi1@tcs.com
+harish,male,harish@asdf.com,active,7141323,Md.Harish,inactive,7141323,harish1@microsoft.com
+prasad,female,prasad@adsf.com,inactive,7141324,Prof.Prasad,active,7141324,prasad1@cognizant.com
+mindmajix,male,mindmajix@asedf.com,active,7141325,Miss.Mindmajix,inactive,7141325,mindmajix1@hcl.com
+
+
+
+
+
+,,
